@@ -1,0 +1,27 @@
+{
+  "name": "majestic-food",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "server": "json-server --watch src/app/api/db.json --port 5000"
+  },
+  "dependencies": {
+    "next": "13.5.6",
+    "next-auth": "4.24.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "4.11.0",
+    "uuid": "9.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.6",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
