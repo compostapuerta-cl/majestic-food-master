@@ -1,0 +1,15 @@
+.card-container {
+    background-color: var(--second-white);
+}
+
+.button-add-order {
+    background-color: var(--first-green);
+}
+
+.qualification-star-icon {
+    color: var(--first-green);
+}
+
+.qualification-text {
+    color: var(--tird-gray);
+}

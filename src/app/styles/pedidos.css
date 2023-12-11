@@ -1,0 +1,7 @@
+body {
+    overflow-x: hidden;
+}
+
+.oval {
+    border-radius: 0 0 100% 100%;
+}

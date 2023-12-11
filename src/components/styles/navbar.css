@@ -1,0 +1,11 @@
+.nav-styles {
+    background-color: var(--second-white);
+}
+
+.nav-brand {
+    color: var(--first-green);
+}
+
+.icon-setting {
+    color: var(--first-gray);
+}

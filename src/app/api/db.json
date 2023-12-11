@@ -1,0 +1,93 @@
+{
+  "pedidos": [
+    {
+      "name": "Pedido de Deimer",
+      "description": "Este es el pedido de Deimer.",
+      "date": {
+        "year": 2023,
+        "month": 12,
+        "day": 6,
+        "hours": 14,
+        "minutes": 14
+      },
+      "id": "62530860-17db-4f09-9abf-73abaf07ca87",
+      "idUser": "d77202cd-4238-473e-bf50-9e2b68c08f23",
+      "undefined": "d4trh5gf6v2",
+      "": "Pedido de Deimer",
+      "data": "rggrer"
+    }
+  ],
+  "platos": [
+    {
+      "nombre": "Coca Cola",
+      "imagen": "cocacola.png",
+      "calificacion": 4.2,
+      "price": "3500",
+      "category": [
+        "bebida"
+      ],
+      "idOrder": "62530860-17db-4f09-9abf-73abaf07ca87",
+      "categoria": "Bebida",
+      "id": "efbe01c8-1781-44eb-99a5-fedec61aaa5e"
+    },
+    {
+      "nombre": "Coca Cola",
+      "imagen": "cocacola.png",
+      "calificacion": 4.2,
+      "price": "3500",
+      "category": [
+        "bebida"
+      ],
+      "idOrder": "62530860-17db-4f09-9abf-73abaf07ca87",
+      "categoria": "Plato secundario",
+      "id": "dbb66289-e7fe-4729-9af9-03a23a37503a"
+    },
+    {
+      "nombre": "Empanada",
+      "imagen": "empanadas.webp",
+      "calificacion": 3.2,
+      "price": "5000",
+      "category": [
+        "plato-principal",
+        "plato-secundario"
+      ],
+      "idOrder": "62530860-17db-4f09-9abf-73abaf07ca87",
+      "categoria": "Plato secundario",
+      "id": "9c572c47-ebd1-457f-871f-8c47820b30f1"
+    }
+  ],
+  "usuarios": [
+    {
+      "email": "deimerroncancio@gmail.com",
+      "password": "02062002De",
+      "name": "Deimer",
+      "lastName": "Roncancio",
+      "profileImage": "profile-image.webp",
+      "id": "d77202cd-4238-473e-bf50-9e2b68c08f23"
+    },
+    {
+      "email": "roncanciodeison@gmail.com",
+      "password": "02062002De",
+      "name": "Emerson",
+      "lastName": "Roncancio",
+      "profileImage": "heisenberg-breaking-bad-minimalista_1920x1080_xtrafondos.com.jpg",
+      "id": "ef1964a0-4878-4958-b162-e40046f551b8"
+    },
+    {
+      "email": "juliana@gmail.com",
+      "password": "02062002De",
+      "name": "Juliana",
+      "lastName": "Mendez",
+      "profileImage": "chica-anime-con-lentes-y-cigarro_3840x2160_xtrafondos.com.jpg",
+      "id": "922ca23d-87bd-4bba-abbc-f763c585b010"
+    },
+    {
+      "email": "julian@gmail.com",
+      "password": "02062002De",
+      "name": "Julian",
+      "lastName": "uyghjknwefsd",
+      "profileImage": "cropped-1366-768-1280309.jpg",
+      "id": "28162cac-e346-4139-a83d-e099885753ea"
+    }
+  ]
+}

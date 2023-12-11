@@ -1,0 +1,11 @@
+.plate-presentation {
+    background-color: var(--second-white);
+}
+
+.qualification-icon {
+    color: var(--first-green)
+}
+
+.qualification-text {
+    color: var(--tird-gray)
+}
